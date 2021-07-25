@@ -5,7 +5,7 @@
     2) React Youtube
     3) Axios
     4) Movie Trailer
-## Landnig Page
+## Landing Page
 <img src="./screenshots/main.png">
 
 ## Trailer Player 
